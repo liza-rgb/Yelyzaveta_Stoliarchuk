@@ -1,0 +1,26 @@
+{
+  "name": "webapi_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "rimraf ./dist && tsc && jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/liza-rgb/Yelyzaveta_Stoliarchuk.git"
+  },
+  "author": "Yelyzaveta Stoliarchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liza-rgb/Yelyzaveta_Stoliarchuk/issues"
+  },
+  "homepage": "https://github.com/liza-rgb/Yelyzaveta_Stoliarchuk#readme",
+  "devDependencies": {
+    "@types/jasmine": "^4.3.1",
+    "jasmine": "^4.5.0",
+    "jasmine-ts-console-reporter": "^3.1.1",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.9.4"
+  }
+}
