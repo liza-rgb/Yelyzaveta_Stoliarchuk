@@ -3,5 +3,5 @@
   "spec_files": ["**/*[sS]pec.js"],
   "helpers": ["../spec/helpers/**/*.js"],
   "stopSpecOnExpectationFailure": false,
-  "random": true
+  "random": false
 }
