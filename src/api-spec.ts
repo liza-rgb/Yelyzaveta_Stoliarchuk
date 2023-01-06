@@ -2,8 +2,7 @@ import { Dropbox, DropboxResponse, Error, files } from "dropbox";
 import fs from "fs";
 import path from "path";
 
-const ACCESS_TOKEN =
-  "sl.BVYsvdpmLBEpP3LA76vQGjhvKIvxtZe5aOK38PfvyW7KBYQY3u1Ak3TCGE2VKc0qgXulMfhT96i6RSlCVih5KPwOm8m8K86g_0xZUG8jMSilVM9RehjSOg2UzDE_XOikNOp7sM71FQHp";
+const ACCESS_TOKEN = "";
 
 jasmine.DEFAULT_TIMEOUT_INTERVAL = 5 * 1000;
 
